@@ -24,4 +24,5 @@ Exampe output
 
 ```python
 Press Ctrl-C to quit.
-X:  0 Y: 1143 RGB: ( 38,  38,  38)```
+X:  0 Y: 1143 RGB: ( 38,  38,  38)
+```
