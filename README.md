@@ -20,7 +20,7 @@ py.displayMousePosition()
 ```
 4. Hover over tiles and note the coordinate
 
-##Exampe output
+## Exampe output
 
 ```python
 Press Ctrl-C to quit.
